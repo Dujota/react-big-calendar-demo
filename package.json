@@ -11,7 +11,7 @@
   "dependencies": {
     "@hookform/resolvers": "^3.1.1",
     "animate.css": "^4.1.1",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "date-fns": "^2.30.0",
     "jsonwebtoken": "^9.0.1",
     "little-state-machine": "^4.8.0",
